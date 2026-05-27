@@ -15,7 +15,7 @@ For full mod list, please refers to the Dependencies section on the Files page.
 
 Q: I found a bug / my game just crashed! What should I do?
 
-A: Don't worry. These problems are normal to happen on a modpack. If things break, please head over to [GitHub](https://github.com/XxdMkbMark/Outerwhere) and open an issue. Make sure to include a **detailed description** of the problem and attach the **full log file**, I'll fix it as soon as possible.
+A: Don't worry. These problems are normal to happen on a modpack. If things break, please head over to [GitHub](https://github.com/XxdMkbMark/Outerwhere/issues) and open an issue. Make sure to include a **detailed description** of the problem and attach the **full log file**, I'll fix it as soon as possible.
 
 
 Q: Why does my frame rate start dropping after playing for a long time?
